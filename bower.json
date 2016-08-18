@@ -1,0 +1,17 @@
+{
+    "name": "miltoniantattoo-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Impallari Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/miltoniantattoo-bower.git"
+    },
+    "description": "Miltonian Tattoo font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
